@@ -1,0 +1,26 @@
+코드종류,코드,종류
+gender,0,남자
+gender,1,여자
+age,0,0 ~ 9세
+age,1,10 ~ 19세
+age,2,20 ~ 29세
+age,3,30 ~ 39세
+age,4,40 ~ 49세
+age,5,50 ~ 59세
+age,6,60 ~ 69세
+age,7,70 ~ 79세
+age,8,80대 이상
+modal,0,차량
+modal,1,시내버스
+modal,2,지하철
+modal,3,도보
+modal,4,기타
+modal,5,철도
+modal,6,시외고속버스
+modal,7,항공기
+purpose,0,귀가
+purpose,1,업무 
+purpose,2,학업
+purpose,3,쇼핑여가
+purpose,4,기타
+purpose,5,여행
